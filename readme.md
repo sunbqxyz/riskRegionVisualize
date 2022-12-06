@@ -12,9 +12,7 @@ readRiskApi.py 读取风险区数据集，并通过名称匹配的方式，将�
 
 cnmap.py 读取latest_code.json，并将其中code对应的县绘制为橙色、对应的市输出为灰色，详见例图。
 
-注意：项目中使用的中国地图因为美观原因经过特殊修改，如需发布，请按照相关条例送自然资源主管部门审核，并自行承担全部法律责任。
-
+例图（数据来自RiskLevelApi，所示数据为2022年12月4日风险地区）
 ![例图](https://github.com/sunbqxyz/riskRegionVisualize/blob/main/example.png)
 
-
-
+注意：项目中使用的中国地图因为美观原因经过特殊修改，如需发布，请按照相关条例送自然资源主管部门审核，并自行承担全部法律责任。

@@ -14,7 +14,7 @@ cnmap.py 读取latest_code.json，并将其中code对应的县绘制为橙色、
 
 注意：项目中使用的中国地图因为美观原因经过特殊修改，如需发布，请按照相关条例送自然资源主管部门审核，并自行承担全部法律责任。
 
-![例图](example.jpg)
+![例图](https://github.com/sunbqxyz/riskRegionVisualize/blob/main/example.png)
 
 
 
